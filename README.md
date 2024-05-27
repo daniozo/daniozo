@@ -1,7 +1,3 @@
-<div align="left">
-  <img height="150" src="https://avatars.githubusercontent.com/u/99667831?v=4&size=1000" />
-</div>
-
 <h1 align="left">👋Hey, you are on Daniozo's Github profile</h1>
 
 ###
